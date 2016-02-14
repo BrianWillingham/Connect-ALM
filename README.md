@@ -1,2 +1,2 @@
 # Connect-ALM
-Powershell function utlizing the HP ALM Client Connectivity library to script access to ALM and query
+Powershell function utilizing the HP ALM Client Connectivity library to script access to ALM and query
